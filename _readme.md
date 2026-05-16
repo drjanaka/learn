@@ -1,2 +1,4 @@
-This site can be access from:  drjanaka.github.io
+This site can be access from:  https://drjanaka.github.io/learn/
+
+
 
